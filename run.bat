@@ -1,0 +1,1 @@
+technet_scrape.exe>technet_scrape_log.txt
